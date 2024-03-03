@@ -51,10 +51,10 @@ La démarche consistera donc ici à prédire, à partir des données d'un CV fou
 
 ### 3. Les étapes du code
 
-Ensuite, nous avons déterminé que pour pouvoir réaliser cette idée business, nous allions devoir procéder en trois temps : 
-I. Tout d'abord, réaliser le matching de CV avec les offres présentes sur l'API de Pôle Emploi pour trouver les offres d'emploi qui collent le plus avec le CV en question
-II. Dans un second temps, récupérer les compétences requises pour ces offres d'emploi-là et identifier celles qui sont manquantes dans le CV
-III. Enfin, proposer des formations professionnelles permettant d'acquérir ces compétences manquantes. 
+Ensuite, nous avons déterminé que pour pouvoir réaliser cette idée business, nous allions devoir procéder en trois temps :   
+I. Tout d'abord, réaliser le matching de CV avec les offres présentes sur l'API de Pôle Emploi pour trouver les offres d'emploi qui collent le plus avec le CV en question  
+II. Dans un second temps, récupérer les compétences requises pour ces offres d'emploi-là et identifier celles qui sont manquantes dans le CV  
+III. Enfin, proposer des formations professionnelles permettant d'acquérir ces compétences manquantes.   
 
 ## 0. la base de données : les offres de Pôle Emploi
 
